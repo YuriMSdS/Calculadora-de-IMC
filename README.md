@@ -5,7 +5,6 @@ Seguindo meu planejamento de realizar pequenos projetos para me desenvolver e au
 
     HTML
 
-
     CSS
 
     Javascript    
